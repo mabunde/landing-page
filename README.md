@@ -29,7 +29,7 @@ Incase you run into a problem, kindly contact me on solomonsitati39@gmail.com an
 
 ## Live Site
 
-Go to <a href="">[live]</a> 
+Go to <a href="https://mabunde.github.io/landing-page/">[live]</a> 
 
 ## Licence
 This project is under the MIT licence:
