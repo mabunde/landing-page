@@ -7,9 +7,16 @@
 
 }
 
-.jumbotron a {
+.top ul li {
     display: inline;
+    padding: 80px;
+
 }
+
+.top {
+    margin-top: 40px;
+}
+
 
 .image {
     float: left;
@@ -40,7 +47,18 @@ h3 {
     text-align: center;
 }
 
-.footer a {
-    display: flex;
-    flex-direction: row;
+.main-footer ul li {
+    display: inline;
+    padding: 80px;
+    margin-top: 15px;
+    text-align: center;
+
+}
+
+.main-footer {
+    margin-bottom: 20px;
+}
+
+.footer {
+    height: 100px;
 }
