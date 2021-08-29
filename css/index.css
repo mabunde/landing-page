@@ -7,6 +7,10 @@
 
 }
 
+.jumbotron a {
+    display: inline;
+}
+
 .image {
     float: left;
     height: 450px;
@@ -34,4 +38,9 @@
 
 h3 {
     text-align: center;
+}
+
+.footer a {
+    display: flex;
+    flex-direction: row;
 }
