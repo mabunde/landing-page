@@ -21,7 +21,9 @@ No noticable bugs identified.
 
 ## Technologies Used
 
-HTML(Hypertext Mark-up Language) CSS(cascading Style Sheet) Bootstrap CSS.
+* HTML(Hypertext Mark-up Language) 
+* CSS(cascading Style Sheet) 
+* Bootstrap CSS.
 
 ## Support and contact details
 
