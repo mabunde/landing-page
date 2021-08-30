@@ -34,6 +34,6 @@ Incase you run into a problem, kindly contact me on solomonsitati39@gmail.com an
 Go to <a href="https://mabunde.github.io/landing-page/">[live]</a> 
 
 ## Licence
-This project is under the MIT licence:
+This project is under the MIT license:
 
-## Copyright (c) 2021 Sitati Solomon
+### Copyright (c) 2021 Sitati Solomon
