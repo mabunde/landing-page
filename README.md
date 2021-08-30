@@ -36,4 +36,4 @@ Go to <a href="https://mabunde.github.io/landing-page/">[live]</a>
 ## Licence
 This project is under the MIT licence:
 
-## Copyright (c)
+## Copyright (c) 2021 Sitati Solomon
